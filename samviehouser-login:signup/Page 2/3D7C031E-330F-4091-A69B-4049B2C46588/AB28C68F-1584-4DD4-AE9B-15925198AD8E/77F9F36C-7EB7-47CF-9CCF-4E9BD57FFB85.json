@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77F9F36C-7EB7-47CF-9CCF-4E9BD57FFB85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF028C2E-7020-4876-B839-B7F0A6618DF1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "533AF1A0-B789-48B2-A05A-DFAD82DA781B",
+    "height": 60,
+    "width": 60,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/checkmark icon copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BED0CE5-08B4-496F-8A63-FA33D4B19F15",
+      "overrideName": "9E527D11-6021-4EB2-A55C-332285D1B114_layerStyle",
+      "value": "545E603C-35A9-4D5C-81B4-C32AE2510FE1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F01735F-6DC8-4562-A52A-4C82153C31E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FB79166F-875A-44CE-B1D1-C548A3ECB2C6",
+  "verticalSpacing": 0
+}

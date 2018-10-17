@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DEFB1EC-2396-4514-97C3-A5CF9EC9BFB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BD3D764-A135-4809-9127-397D0CD367ED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF26B1AA-9216-499F-A81B-EDEB4C0178B4",
+    "height": 42,
+    "width": 271,
+    "x": 86,
+    "y": 9
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/text imput",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE5A8804-3A04-4CD0-BC51-144C03F72F0A",
+      "overrideName": "61B3A48C-5DB9-4943-A16F-933E4AE375F5_stringValue",
+      "value": "Email/Username"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98A1ADB4-6F0A-4944-85A8-8431FB32C8EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "59CA46B1-CE58-49A0-B154-A03277E36ACE",
+  "verticalSpacing": 0
+}

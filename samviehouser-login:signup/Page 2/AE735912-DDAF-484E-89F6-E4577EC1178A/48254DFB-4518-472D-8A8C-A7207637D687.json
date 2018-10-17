@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "48254DFB-4518-472D-8A8C-A7207637D687",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03964914-DA35-42F3-B47A-AEA9C49A190A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "773EFD68-8C64-4CF9-87C3-511726AA5896",
+    "height": 36,
+    "width": 327,
+    "x": 335,
+    "y": -28
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text/body",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0889E95D-A5A4-44FF-83B6-962A160241E2",
+      "overrideName": "4F541A9D-B319-45E9-AE28-F66D22D94B41_stringValue",
+      "value": "This email is not connected to an account!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60242341-21F6-421F-BBE5-53154A010E42",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7EBBA1CA-700A-49A0-868C-D069417EEC8F",
+  "verticalSpacing": 0
+}

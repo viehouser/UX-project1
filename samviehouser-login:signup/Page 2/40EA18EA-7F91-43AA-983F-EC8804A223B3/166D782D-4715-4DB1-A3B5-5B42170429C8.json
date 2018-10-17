@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "166D782D-4715-4DB1-A3B5-5B42170429C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB00D5D1-806C-4820-97CB-A46EAE453B6D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D253862C-3C14-4FFA-8141-840E68F5B939",
+    "height": 36,
+    "width": 416,
+    "x": -1,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/page-banner",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFA4B39B-D6B5-458A-AC83-8BA9A66D0548",
+      "overrideName": "76085870-DD2E-48F5-BA55-00662408CFA9_stringValue",
+      "value": "sign up"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "359AD554-741C-4DC5-8B14-4D3ED7E90082",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "35646255-EAD1-47C9-8FAE-D3B475A7071D",
+  "verticalSpacing": 0
+}

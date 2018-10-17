@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6CF23C25-4C67-4691-B524-E6E0F6B09434",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D3234D7-FC67-4DDC-8682-A8983A1F5026",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6DCE9220-B109-4E7D-ABA5-9397914B798E",
+    "height": 36,
+    "width": 416,
+    "x": -1,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/page-banner",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DF3B316-7736-4C80-A6D5-71F73173E788",
+      "overrideName": "76085870-DD2E-48F5-BA55-00662408CFA9_stringValue",
+      "value": "log in"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF995F73-CF0C-489E-A7BA-BFB5EB7FB520",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "35646255-EAD1-47C9-8FAE-D3B475A7071D",
+  "verticalSpacing": 0
+}

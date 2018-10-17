@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C13C1D8-304E-4DD9-BB11-2192E6A4C380",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA2F2F7D-7568-448A-9378-F05C4D116CE4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "36D6F7F9-FF5A-4BEF-A78D-B468B110B3C7",
+    "height": 36,
+    "width": 327,
+    "x": 46,
+    "y": 312
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text/body",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C22D84F7-AA32-4AC2-9F17-76B68726296C",
+      "overrideName": "4F541A9D-B319-45E9-AE28-F66D22D94B41_stringValue",
+      "value": "your password has been changed"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "182FA802-B182-4B19-9BFC-18CCA03BB532",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7EBBA1CA-700A-49A0-868C-D069417EEC8F",
+  "verticalSpacing": 0
+}

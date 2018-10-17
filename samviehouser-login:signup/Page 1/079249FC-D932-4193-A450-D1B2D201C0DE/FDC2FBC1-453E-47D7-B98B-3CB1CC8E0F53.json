@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FDC2FBC1-453E-47D7-B98B-3CB1CC8E0F53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DA12C99-32D6-4799-82DF-71A91CA76C9B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02E1CB57-72B8-4FE2-984C-792025789303",
+    "height": 42,
+    "width": 271,
+    "x": 73,
+    "y": 353
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/text input copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CC27A9E-7A5C-44FE-96C5-199409B468CD",
+      "overrideName": "61B3A48C-5DB9-4943-A16F-933E4AE375F5_stringValue",
+      "value": "password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F6061DD-D3FF-455F-8330-A50AAB9139FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "59CA46B1-CE58-49A0-B154-A03277E36ACE",
+  "verticalSpacing": 0
+}

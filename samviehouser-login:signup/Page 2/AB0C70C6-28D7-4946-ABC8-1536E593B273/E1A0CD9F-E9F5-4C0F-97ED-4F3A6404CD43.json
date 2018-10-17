@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E1A0CD9F-E9F5-4C0F-97ED-4F3A6404CD43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5439098D-66F0-41E8-ADD5-A3F5A020799C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E42B511A-D54E-42A1-BB61-7D7CC384591D",
+    "height": 22,
+    "width": 327,
+    "x": 44,
+    "y": 672
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text/body",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "74134B3D-B713-4DB8-9314-8786FE028763",
+      "overrideName": "4F541A9D-B319-45E9-AE28-F66D22D94B41_stringValue",
+      "value": "Login or Sign-up now"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CED09B64-BA38-4DBF-8D52-6EDE16B863CF",
+      "overrideName": "4F541A9D-B319-45E9-AE28-F66D22D94B41_textStyle",
+      "value": "59256284-358E-49BB-97CF-9C5AD0A1F9AA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6833F67-401C-49B8-84DE-228CB175B9BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7EBBA1CA-700A-49A0-868C-D069417EEC8F",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FC8D7C9-7F29-4666-9E8C-AEF5547BAAE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "077DA040-C020-4959-9185-8473684E9D1D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C63CFDF-F494-41BA-BF1E-98E0A2E5495A",
+    "height": 36,
+    "width": 416,
+    "x": -1,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/page-banner",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7EA1A0B-4C17-438B-921E-65A4B5D9F70D",
+      "overrideName": "76085870-DD2E-48F5-BA55-00662408CFA9_stringValue",
+      "value": "change password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D8AEE509-E7B1-433E-B639-1BA89F0E92CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "35646255-EAD1-47C9-8FAE-D3B475A7071D",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DD40D3F7-C996-4F1D-A1CF-27BBEDE7D228",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D56D2AFB-CB0F-4BD5-9D81-2EA24C8ED8A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6DC7B74-DEAA-466D-9E8A-27E45BA6E952",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3681CE6A-B433-4AA9-813C-7FD57D7BCCD1",
+    "height": 736,
+    "width": 414,
+    "x": 1147,
+    "y": -77
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BA95E543-2219-4C82-808D-A8A7AFE25D33",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D7823481-DCD3-4283-88DE-CFDCDA123D1A"
+    },
+    {
+      "class": "group",
+      "id": "760CE176-0AE3-44B2-9D53-1DF24AC59AB2"
+    },
+    {
+      "class": "group",
+      "id": "438655BC-0BA9-41A6-AC58-AECFC70F714E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E84E246-A04D-4EDC-A493-E2486B87C5FF"
+    },
+    {
+      "class": "group",
+      "id": "6F764671-EA90-47F7-B82E-30DA7E38E02E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 27.16666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 14,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 386
+  },
+  "name": "iPhone 8 Plus Copy 2",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 736,
+    "name": "iPhone 8 Plus",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A9E5DC8-8239-415B-AFB3-E4DBFA37ABD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "78284EAB-C04C-4F50-9C97-5F024F0E1AA9",
+    "guides": [
+      326,
+      546
+    ]
+  }
+}
